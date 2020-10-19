@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* To present
+* Postdoc Researcher, to present
   * University of California, Berkeley 
   * National Center for Electron Microscopy
   * Lawrance Berkeley National Lab
@@ -54,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member of ASM, TMS, MRS
