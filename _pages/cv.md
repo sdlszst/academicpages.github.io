@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Materials Science & Engineering, University of Science and Technology, Beijing 2010
+* M.S. in Metallurgical Engineering, RWTH Aachen University, 2013
+* Ph.D in Materials Science, University of California San Diego, 2018 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* To present
+  * University of California, Berkeley 
+  * National Center for Electron Microscopy
+  * Lawrance Berkeley National Lab
+  * Supervisor: Professor Andrew Minor
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
