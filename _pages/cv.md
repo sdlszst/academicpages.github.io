@@ -22,17 +22,8 @@ Work experience
   * National Center for Electron Microscopy
   * Lawrance Berkeley National Lab
   * Supervisor: Professor Andrew Minor
+ 
 
-
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -51,6 +42,12 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Awards
+======
+* Acta Student Best Paper Award, 2017
+* Gareth Thomas Award, 2017
+* Award for Oversea Student, 2018
   
 Service and leadership
 ======
