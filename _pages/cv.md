@@ -23,26 +23,6 @@ Work experience
   * Lawrance Berkeley National Lab
   * Supervisor: Professor Andrew Minor
  
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Awards
 ======
 * Acta Student Best Paper Award, 2017
