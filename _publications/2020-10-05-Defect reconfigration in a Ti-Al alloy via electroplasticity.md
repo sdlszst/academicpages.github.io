@@ -1,7 +1,7 @@
 ---
 title: "Defect reconfigration in a Ti-Al alloy via electroplasticity"
 collection: publications
-permalink: /publication/2020-10-05-Defect reconfigration in a Ti-Al alloy via electroplasticit
+permalink: /publication/2020-10-05-Defect reconfigration in a Ti-Al alloy via electroplasticity
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2020-10-05
 venue: 'Nature Materials'
