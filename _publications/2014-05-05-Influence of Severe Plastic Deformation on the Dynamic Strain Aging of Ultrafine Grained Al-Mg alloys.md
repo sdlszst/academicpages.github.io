@@ -2,14 +2,14 @@
 title: "Influence of Severe Plastic Deformation on the Dynamic Strain Aging of Ultrafine Grained Al-Mg alloys"
 collection: publications
 permalink: /publication/2014-05-05-Influence of Severe Plastic Deformation on the Dynamic Strain Aging of Ultrafine Grained Al-Mg alloys
-excerpt: 'This paper is about the dynamic strain aging of materials.'
+excerpt: 'This paper is about the dynamic strain aging of materials.Especially the influence of severe plastic deformation on DSA of ultrafine grained Al-Mg alloys. We use confined channel die pressing at room temperature to fabricate alloys with submicrometer grain sizes. Subsequently, strain rate jump tests were conducted to measure the strain rate sensitivity of the materials. It was shown that the critical strain for initiation of serrated flow increased considerably with increasing strain and Mg content contray to the behavior of the coarse grained and non-deformed counterparts.In addition, the instantaneous stress response and the instantaneous strain rate sensitivity during rate jumps were always positive and increased monotonically with pre-strain. The steady state strain rate sensitivity was negative and decreased firstly with progressing pre-strain up to certain point and then increase again. This mechanical behavior of Al-Mg alloys is discussed on the basis of recently developed DSA models by relating the microstructure evolution of Al-Mg alloys during SPD to the influence of SPD on DSA.  '
 date: 2014-05-05
 venue: 'Acta Materialia'
 paperurl: 'http://sdlszst.github.io/files/Zhao_01_Acta_Influence of SPD on DSA.pdf'
-citation: 'Shiteng Zhao, Chenlu Meng, et al. (2014). &quot;Influence of Severe Plastic Deformation on the Dynamic Strain Aging of Ultrafine Grained Al-Mg alloys.&quot; <i>Acta Materalia</i>. 1(3).'
+citation: 'Shiteng Zhao, Chenlu Meng, Fengxin Mao, Weiping Hu, Guenter Gottstein. (2014). &quot;Influence of Severe Plastic Deformation on the Dynamic Strain Aging of Ultrafine Grained Al-Mg alloys.&quot; <i>Acta Materalia</i>. 76(54-67).'
 ---
-This paper is about the dynamic strain aging of materials.
+This paper is about the dynamic strain aging of materials.Especially the influence of severe plastic deformation on DSA of ultrafine grained Al-Mg alloys. We use confined channel die pressing at room temperature to fabricate alloys with submicrometer grain sizes. Subsequently, strain rate jump tests were conducted to measure the strain rate sensitivity of the materials. It was shown that the critical strain for initiation of serrated flow increased considerably with increasing strain and Mg content contray to the behavior of the coarse grained and non-deformed counterparts.In addition, the instantaneous stress response and the instantaneous strain rate sensitivity during rate jumps were always positive and increased monotonically with pre-strain. The steady state strain rate sensitivity was negative and decreased firstly with progressing pre-strain up to certain point and then increase again. This mechanical behavior of Al-Mg alloys is discussed on the basis of recently developed DSA models by relating the microstructure evolution of Al-Mg alloys during SPD to the influence of SPD on DSA.  
 
 [Download paper here](http://sdlszst.github.io/files/Zhao_01_Acta_Influence of SPD on DSA.pdf)
 
-Recommended citation: Shiteng Zhao, Chenlu Meng, et al. (2014). "Influence of Severe Plastic Deformation on the Dynamic Strain Aging of Ultrafine Grained Al-Mg alloys." <i>Acta Materalia</i>. 1(3).
+Recommended citation: Shiteng Zhao, Chenlu Meng, Fengxin Mao, Weiping Hu, Guenter Gottstein. (2014). "Influence of Severe Plastic Deformation on the Dynamic Strain Aging of Ultrafine Grained Al-Mg alloys." <i>Acta Materalia</i>. 76(54-67).

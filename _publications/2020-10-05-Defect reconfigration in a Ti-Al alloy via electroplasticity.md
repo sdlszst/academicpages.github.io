@@ -2,14 +2,14 @@
 title: "Defect reconfigration in a Ti-Al alloy via electroplasticity"
 collection: publications
 permalink: /publication/2020-10-05-Defect reconfigration in a Ti-Al alloy via electroplasticity
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'It has been known for decades that the application of pulsed direct current can significantly enhance the formability of metals. However, the detailed mechanisms of this effect have been difficult to separate from simple Joule heating. Here, we study the electroplastic deformation of Ti-7Al, an alloy that is uniquely suited for uncoupling this behaviour because, contrary to most metals, it has inherently lower ductility at higher temperature. We find that during mechanical deformation, electropulsing enhances cross-slip, producing a wavy dislocation morphology, and enhances twinning, which is similar to what occurs during cryogenic deformation. As a consequence, dislocations are prevented from localizing into planar slip bands that would lead to the early failure of the alloy under tension. Our results demonstrate that this macroscopic electroplastic behaviour originates from defect-level microstructural reconfiguration that cannot be rationalized by simple Joule heating.'
 date: 2020-10-05
 venue: 'Nature Materials'
 paperurl: 'http://sdlszst.github.io/files/Zhao_27_Nature_Materials_Electroplasticity in Ti-Al.pdf'
-citation: 'Shiteng Zhao, Ruopeng Zhang, et al. (2020). &quot;Defect reconfigration in a Ti-Al alloy via electroplasticity.&quot; <i>Nature Materials</i>. 1(3).'
+citation: 'Shiteng Zhao, Ruopeng Zhang, Yan Chong, Xiaoqing Li, Anas Abu-Odeh, Eric Rothchild, Daryl C. Chrzan, Mark Asta, J.W.Morris Jr., Andrew M. Minor. (2020). &quot;Defect reconfigration in a Ti-Al alloy via electroplasticity.&quot; <i>Nature Materials</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+It has been known for decades that the application of pulsed direct current can significantly enhance the formability of metals. However, the detailed mechanisms of this effect have been difficult to separate from simple Joule heating. Here, we study the electroplastic deformation of Ti-7Al, an alloy that is uniquely suited for uncoupling this behaviour because, contrary to most metals, it has inherently lower ductility at higher temperature. We find that during mechanical deformation, electropulsing enhances cross-slip, producing a wavy dislocation morphology, and enhances twinning, which is similar to what occurs during cryogenic deformation. As a consequence, dislocations are prevented from localizing into planar slip bands that would lead to the early failure of the alloy under tension. Our results demonstrate that this macroscopic electroplastic behaviour originates from defect-level microstructural reconfiguration that cannot be rationalized by simple Joule heating.
 
 [Download paper here](http://sdlszst.github.io/files/Zhao_27_Nature_Materials_Electroplasticity in Ti-Al.pdf)
 
-Recommended citation: Shiteng Zhao, Ruopeng Zhang, et al. (2020). "Defect reconfigration in a Ti-Al alloy via electroplasticity." <i>Nature Materials</i>. 1(3).
+Recommended citation: Shiteng Zhao, Ruopeng Zhang, Yan Chong, Xiaoqing Li, Anas Abu-Odeh, Eric Rothchild, Daryl C. Chrzan, Mark Asta, J.W.Morris Jr., Andrew M. Minor. (2020). "Defect reconfigration in a Ti-Al alloy via electroplasticity." <i>Nature Materials</i>. 1(3).

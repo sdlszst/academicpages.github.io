@@ -1,0 +1,15 @@
+---
+title: "Directional amorphization of boron carbide subjected to laser shock compression"
+collection: publications
+permalink: /publication/2016-10-25-Directional amorphization of boron carbide subjected to laser shock compression
+excerpt: 'Solid-state shock-wave propagation is strongly nonequilibrium in nature and hence rate dependent. Using high-power pulsed-laserdriven shock compression, unprecedented high strain rates can be achieved, here we report the directional amorphization in boron carbide polycrystals. At a shock pressure of 45-50 GPa, multiple planar faults, slightly deviated from maximum shear direction, occur a few hundred nanometers below the shock surface. High  resolution transmission electron microscopy reveals that these planar faults are precursors of directional amorphization. It is proposed that the shear stresses cause the amorphization and that pressure assists the process by ensuring the integrity of the specimen. Thermal energy conversion calculations including heat transfer suggest that amorphization is a solid-state process. Such a phenomenon has significant effect on the ballistic performance of B4C.'
+date: 2016-10-25
+venue: 'PNAS'
+paperurl: 'http://sdlszst.github.io/files/Zhao_11_PNAS_Directional amorphization of boron carbide subjected to laser shock compression_PNAS_final.pdf'
+citation: 'Shiteng Zhao, Bimal Kad, Bruce Remington, Jerry LaSalvia, Christopher Wehrenberg, Kristopher Behler, Marc Meyers. (2016). &quot;Directional amorphization of boron carbide subjected to laser shock compression.&quot; <i>PNAS</i>. 113(12088-12093).'
+---
+Solid-state shock-wave propagation is strongly nonequilibrium in nature and hence rate dependent. Using high-power pulsed-laserdriven shock compression, unprecedented high strain rates can be achieved, here we report the directional amorphization in boron carbide polycrystals. At a shock pressure of 45-50 GPa, multiple planar faults, slightly deviated from maximum shear direction, occur a few hundred nanometers below the shock surface. High  resolution transmission electron microscopy reveals that these planar faults are precursors of directional amorphization. It is proposed that the shear stresses cause the amorphization and that pressure assists the process by ensuring the integrity of the specimen. Thermal energy conversion calculations including heat transfer suggest that amorphization is a solid-state process. Such a phenomenon has significant effect on the ballistic performance of B4C.
+
+[Download paper here](http://sdlszst.github.io/files/Zhao_11_PNAS_Directional amorphization of boron carbide subjected to laser shock compression_PNAS_final.pdf)
+
+Recommended citation: Shiteng Zhao, Bimal Kad, Bruce Remington, Jerry LaSalvia, Christopher Wehrenberg, Kristopher Behler, Marc Meyers. (2016). "Directional amorphization of boron carbide subjected to laser shock compression." <i>PNAS</i>. 113(12088-12093).
