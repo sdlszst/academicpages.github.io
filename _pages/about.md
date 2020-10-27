@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the Research Website for Dr. Shiteng Zhao!"
+title: "Welcome to the Research Website for Dr. Shiteng Zhao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
